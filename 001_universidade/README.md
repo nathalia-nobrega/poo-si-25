@@ -8,13 +8,13 @@
 
 ## Ações (features):
 
-#### Universidade ✅
+#### Universidade
 
 - Cadastrar curso ✅
 - Cadastrar professor ✅
 - Vincular/desvincular professor em curso ✅
 
-#### Curso ✅
+#### Curso
 
 - Cadastrar/remover matéria ✅
 - Consultar professores em curso ✅
